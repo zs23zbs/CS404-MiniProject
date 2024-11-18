@@ -7,7 +7,6 @@ import searchAlgor
 - putting the parameters of (which key to find, range or list to find key in)
 - last line is putting the parameters of (index of which the key was in, the supposed answer of index of key)
 """
-#Consider adding comments for the test cases 
 
 class Test_Linear_Search(unittest.TestCase):
 
